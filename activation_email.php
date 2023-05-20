@@ -37,8 +37,10 @@ function PageCompPageMainCode()
     $memberID = getLoggedId();
     $p_arr = getProfileInfo( $memberID ); 
 
-    if ( $p_arr['Status'] != 'Unconfirmed' )
+    if ( $p_arr['Status'] != 'Unconfirmed' ) {
         return _t( "_NO_NEED_TO_CONFIRM_EMAIL" );
-    else
+    }
+    else {
         return activation_mail( $memberID );
+    }
 }
