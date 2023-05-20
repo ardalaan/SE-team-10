@@ -1,0 +1,6 @@
+projectKey=Shelem
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=Shelem
+ceTaskId=AYg09I45t7siUGSz9Ji9
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYg09I45t7siUGSz9Ji9

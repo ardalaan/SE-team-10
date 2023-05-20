@@ -1,0 +1,65 @@
+
+--- 2023-05-13T16:00:11+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\Dolphin4\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-05-13T16:00:11+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\Dolphin4\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-05-13T16:00:58+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\Dolphin4\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-05-13T16:01:01+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\Dolphin4\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\Dolphin4\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\Dolphin4\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
