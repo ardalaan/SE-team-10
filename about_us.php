@@ -21,7 +21,7 @@ $_page['header_text'] = _t('_About Us');
 // --------------- page components
 
 $_ni = $_page['name_index'];
-$_page_cont[$_ni]['page_main_code'] = PageCompMainCode();
+$_page_cont[$_ni]['page_main_code'] = pageCompMainCode();
 
 // --------------- [END] page components
 
@@ -32,7 +32,7 @@ PageCode();
 /**
  * page code function
  */
-function PageCompMainCode()
+function pageCompMainCode()
 {
     global $oTemplConfig;
     $ret = _t( "_ABOUT_US" );
