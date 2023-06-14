@@ -1,0 +1,157 @@
+
+--- 2023-06-13T20:05:59+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-06-13T20:05:59+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-06-13T20:07:25+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-06-13T20:07:39+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-06-13T20:29:02+00:00
+Type: Error
+Message: Class "BxDolPageView" not found
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\classes\BxCRSSModule.php
+Line: 267
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\crss.php(28): BxCRSSModule->GenCustomRssBlock(0)<br />
+#1 {main}
+--- 2023-06-13T20:29:04+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 {main}
+--- 2023-06-13T20:29:04+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\dolphin\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-13T20:29:04+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\events\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-13T20:29:04+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\groups\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-13T20:29:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\store\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-13T20:29:54+00:00
+Type: Error
+Message: Class "BxDolTextData" not found
+File: C:\Users\user\AppData\Local\Temp\_AAS1819e11a9da08020ef5f2fa54af844aba0c
+Line: 9
+Trace: 
+#0 C:\Users\user\AppData\Local\Temp\_AAS18156dde5a7391e6c7531afd179c4277e4b(13): require_once()<br />
+#1 C:\Users\user\AppData\Local\Temp\_AAS18198f4e5ed592ac0d4694afb836ab50bd0(96): require_once('C:\\Users\\user\\A...')<br />
+#2 C:\Users\user\AppData\Local\Temp\_AAS18182b475f0c0ea04d39879ffe6d768b6fe(13): BxDolModule::getInstance('BxArlModule')<br />
+#3 C:\Users\user\AppData\Local\Temp\_AAS18194567fd4a86ea4453c4a2a57deb190f4(80): BxArlSearchResult->__construct()<br />
+#4 C:\Users\user\AppData\Local\Temp\_AAS18111a21ea0b11b96e1b0ffe99211b070de(61): BxDolSearch->response()<br />
+#5 C:\acusensor\acusensor.php(2): require('C:\\Users\\user\\A...')<br />
+#6 {main}
+--- 2023-06-13T20:30:05+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
+--- 2023-06-13T20:31:40+00:00
+Type: TypeError
+Message: strlen(): Argument #1 ($str) must be of type string, array given
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php
+Line: 664
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(540): BxDolSearchResult->getSearchFieldsCond(Array, Array)<br />
+#1 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchProfile.php(169): BxDolSearchResult->getRestriction()<br />
+#2 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(516): BxBaseSearchProfile->getRestriction()<br />
+#3 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(497): BxDolSearchResult->getCount()<br />
+#4 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(379): BxDolSearchResult->setConditionParams()<br />
+#5 C:\xampp\htdocs\SE-team-10\Dolphin10\templates\base\scripts\BxBaseSearchResult.php(42): BxDolSearchResult->getSearchData()<br />
+#6 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(231): BxBaseSearchResult->displayResultBlock()<br />
+#7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
+#8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
+#9 {main}
