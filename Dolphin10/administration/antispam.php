@@ -15,7 +15,7 @@ $oBxDolDNSBlacklists = bx_instance('BxDolDNSBlacklists');
 
 class BxDolAdmFormDnsblAdd extends BxTemplFormView
 {
-    function __construct ($aChains, $sDefaultMode)
+    public function __construct ($aChains, $sDefaultMode)
     {
         $aCustomForm = array(
 
