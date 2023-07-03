@@ -2,7 +2,7 @@
 	<div class="boxFirstHeader bx-def-bh-margin">
         <div class="dbTitle">Keyword Search</div>        <div class="clear_both"></div>
     </div>
-	<div class="boxContent"><div class="dbContent bx-def-bc-margin"><form  id="searchForm" action="http://localhost:8080/SE-team-10/Dolphin10/searchKeyword.php" method="get" class="form_advanced"><input  class="form_input_hidden bx-def-font-inputs" type="hidden" name="csrf_token" value="LN77gXypGGthJRhZpp9P" /><div class="form_advanced_wrapper searchForm_wrapper">
+	<div class="boxContent"><div class="dbContent bx-def-bc-margin"><form  id="searchForm" action="http://localhost:8080/SE-team-10/Dolphin10/searchKeyword.php" method="get" class="form_advanced"><input  class="form_input_hidden bx-def-font-inputs" type="hidden" name="csrf_token" value="?/6XFD+n8pBRnDPwqsBp" /><div class="form_advanced_wrapper searchForm_wrapper">
 	<div  class="form_advanced_table"><fieldset  class="bx-form-fields-wrapper"><div class="bx-form-element bx-form-element-text bx-def-margin-top clearfix" >
 	<div class="bx-form-caption bx-def-font-inputs-captions">Keyword<span class="bx-form-error"><i  class="sys-icon exclamation-circle" float_info=" "></i></span></div>
 	<div class="bx-form-value clearfix">

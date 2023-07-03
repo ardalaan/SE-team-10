@@ -155,3 +155,97 @@ Trace:
 #7 C:\xampp\htdocs\SE-team-10\Dolphin10\inc\classes\BxDolSearch.php(82): BxDolSearchResult->processing()<br />
 #8 C:\xampp\htdocs\SE-team-10\Dolphin10\searchKeyword.php(61): BxDolSearch->response()<br />
 #9 {main}
+--- 2023-06-15T15:33:36+00:00
+Type: Error
+Message: Class "BxDolPageView" not found
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\classes\BxCRSSModule.php
+Line: 267
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\crss.php(28): BxCRSSModule->GenCustomRssBlock(0)<br />
+#1 {main}
+--- 2023-06-15T15:33:37+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 {main}
+--- 2023-06-15T15:33:37+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\events\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:33:37+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\groups\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:33:37+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\store\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:33:46+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\dolphin\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:40:04+00:00
+Type: Error
+Message: Class "BxDolPageView" not found
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\classes\BxCRSSModule.php
+Line: 267
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\custom_rss\crss.php(28): BxCRSSModule->GenCustomRssBlock(0)<br />
+#1 {main}
+--- 2023-06-15T15:40:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 {main}
+--- 2023-06-15T15:40:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\dolphin\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:40:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\events\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:40:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\groups\config.php(10): require_once()<br />
+#1 {main}
+--- 2023-06-15T15:40:05+00:00
+Type: Error
+Message: Undefined constant "BX_ORCA_INTEGRATION"
+File: C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\base\config.php
+Line: 37
+Trace: 
+#0 C:\xampp\htdocs\SE-team-10\Dolphin10\modules\boonex\forum\integrations\store\config.php(10): require_once()<br />
+#1 {main}
